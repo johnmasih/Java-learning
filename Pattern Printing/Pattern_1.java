@@ -1,3 +1,6 @@
+//Print  * * * *
+//       * * * *
+//ex - row = 2, col = 4
 package pattern_printing;
 
 import java.util.Scanner;

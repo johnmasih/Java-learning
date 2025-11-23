@@ -1,3 +1,9 @@
+//Print 1 2 3 4
+//      1 2 3 4
+//      1 2 3 4
+//      1 2 3 4
+//n=4
+
 package pattern_printing;
 
 import java.util.Scanner;
