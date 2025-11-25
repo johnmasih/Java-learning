@@ -18,11 +18,11 @@ public class Pattern_13 {
         System.out.println("Enter number : ");
         int n = sc.nextInt();
         for (int i = 1; i <= n; i++) {
-            int a = 1;                   //<- declare it inside outer loop
+            int num = 1;                   //<- declare it inside outer loop
             for (int j = 1; j <= i; j++) {
 
-                System.out.print(a + " ");
-                a += 2;
+                System.out.print(num + " ");
+                num += 2;
             }
             System.out.println("");
 
