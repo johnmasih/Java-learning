@@ -7,7 +7,7 @@ public class BuiltInMethods {
         double y = Math.cbrt(343);   // For Cube root
         System.out.println(x);
         System.out.println(y);
-        System.out.println(Math.abs(-8.8));  // Math.abs() gives the absolute(non-negative) values
+        System.out.println(Math.abs(-8.8));  // Math.abs() gives the absolute(non-negative) values.
         
     }
 }
