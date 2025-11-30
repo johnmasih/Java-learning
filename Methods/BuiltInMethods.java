@@ -19,5 +19,10 @@ public class BuiltInMethods {
         
         System.out.println(Math.pow(8, 2)); 
         
+        System.out.println(Math.max(Math.max(7, 9), Math.max(8,3)));   // to find max of 4 numbers
+                                            // 9           // 8
+                           //(9)
+                           
+        
     }
 }
