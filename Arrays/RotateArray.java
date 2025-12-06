@@ -8,7 +8,7 @@ public class RotateArray {
         int n = 9;
         int size = arr.length;
 
-        n %= size;
+        n %= size; //If n is larger than the array size, use the remainder.
         
         System.out.println("Before Rotating : ");
         print(arr);
