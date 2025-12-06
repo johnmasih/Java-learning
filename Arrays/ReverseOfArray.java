@@ -7,22 +7,23 @@ public class ReverseOfArray {
         int size = arr.length;
 
         int i = 0, j = size - 1;
-        while(i<j){
-            swap(arr, i,j);
+        while (i < j) {
+            swap(arr, i, j);
             i++;
             j--;
         }
-        
+
         print(arr);
     }
-    public static void swap(int[] arr,int i, int j){
+
+    public static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
-        arr[i]=arr[j];
-        arr[j] =temp;
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
-    
-    public static void print(int[] arr){
-        for(int i : arr){
+
+    public static void print(int[] arr) {
+        for (int i : arr) {
             System.out.print(i + " ");
         }
         System.out.println();
