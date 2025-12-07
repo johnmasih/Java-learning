@@ -1,4 +1,5 @@
-
+/* Q. You are given an array of size n−1 that contains distinct numbers from 1 to n,
+      but one number is missing. Find and return the missing number. */
 package Arrays;
 
 public class MissingNumInArray {
