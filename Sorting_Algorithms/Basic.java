@@ -1,7 +1,7 @@
 
 package Sorting_Algorithms;
 
-// Check if array is sorted or not
+// Check if array is sorted or not.
 
 public class Basic {
     public static void main(String[] args) {
