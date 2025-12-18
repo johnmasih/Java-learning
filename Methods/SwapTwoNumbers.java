@@ -1,4 +1,4 @@
-/*   Demonstrating pass-by-value concept   */
+/*   Demonstrating Pass-by-value concept   */
 
 package Methods;
 
